@@ -6,7 +6,7 @@
 ### Contato
 <a href="https://www.linkedin.com/in/danilo-rocha-79591510/" target="_blank">
 <img aligh="center"  heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max.width:100%;"></a>
-##
+
 
 ### Hard skills
 <img aligh="center"  heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max.width:100%;"></a>
