@@ -6,8 +6,9 @@
 ### Contato
 ##
 <a href="https://www.linkedin.com/in/danilo-rocha-79591510/" target="_blank">
-<img aligh="center" alt="Danilo linkedin" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" style="max.width:100%;"></a>
+<img aligh="center"  heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max.width:100%;"></a>
 
 
 
 
+ 
