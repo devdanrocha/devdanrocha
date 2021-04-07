@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanrocha&repo=github.com/devdanrocha/E-commerce-com-NextJs&show_icons=true&theme=radical)
 
 ### Contato
-<a href="https://www.linkedin.com/in/danilo-rocha-79591510/" target="_blank">
+<a href="https://www.linkedin.com/in/danilo-rocha-79591510a/" target="_blank">
 <img aligh="center"  heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max.width:100%;"></a>
 
 
